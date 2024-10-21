@@ -14,7 +14,6 @@ public class Fatura {
         this.juros = juros;
         this.multa = multa;
     }
-
     
     public Date getDataVencimento() {
         return dataVencimento;
