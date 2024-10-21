@@ -15,7 +15,7 @@ public class Fatura {
         this.multa = multa;
     }
 
-    // Getters e Setters
+    
     public Date getDataVencimento() {
         return dataVencimento;
     }
